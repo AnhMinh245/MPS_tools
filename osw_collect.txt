@@ -1,0 +1,5 @@
+ps -ef | osw
+tar -cvf "archive-$HOSTNAME-$(date '+%Y-%m-%d').tar.gz" oswiostat oswtop oswvmstat 
+welcome1
+
+ipmitool sunoem cli
