@@ -15,3 +15,5 @@ dos2unix calculate_memory_free.sh
 
 ./calculate_cpu_mem <folder chứa log osw>  
 (nhập memory vật lý)
+
+./explorer_get_info.sh <tên folder explorer>
